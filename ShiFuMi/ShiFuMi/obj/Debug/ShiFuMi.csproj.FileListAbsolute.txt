@@ -1,0 +1,7 @@
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\bin\Debug\ShiFuMi.exe.config
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\bin\Debug\ShiFuMi.exe
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\bin\Debug\ShiFuMi.pdb
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.csproj.AssemblyReference.cache
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.csproj.CoreCompileInputs.cache
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.exe
+E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.pdb
