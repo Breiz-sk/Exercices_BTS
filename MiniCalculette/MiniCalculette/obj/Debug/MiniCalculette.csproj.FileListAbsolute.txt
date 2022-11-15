@@ -1,0 +1,7 @@
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\bin\Debug\MiniCalculette.exe.config
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\bin\Debug\MiniCalculette.exe
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\bin\Debug\MiniCalculette.pdb
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\obj\Debug\MiniCalculette.csproj.CoreCompileInputs.cache
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\obj\Debug\MiniCalculette.exe
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\obj\Debug\MiniCalculette.pdb
+E:\Bloc 1 Programmation\MiniCalculette\MiniCalculette\obj\Debug\MiniCalculette.csproj.AssemblyReference.cache

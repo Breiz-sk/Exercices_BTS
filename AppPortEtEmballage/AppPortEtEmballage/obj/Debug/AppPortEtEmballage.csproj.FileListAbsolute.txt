@@ -1,0 +1,7 @@
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\bin\Debug\AppPortEtEmballage.exe.config
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\bin\Debug\AppPortEtEmballage.exe
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\bin\Debug\AppPortEtEmballage.pdb
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\obj\Debug\AppPortEtEmballage.csproj.AssemblyReference.cache
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\obj\Debug\AppPortEtEmballage.csproj.CoreCompileInputs.cache
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\obj\Debug\AppPortEtEmballage.exe
+E:\Bloc 1 Programmation\AppPortEtEmballage\AppPortEtEmballage\obj\Debug\AppPortEtEmballage.pdb
