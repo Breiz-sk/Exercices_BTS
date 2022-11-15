@@ -1,0 +1,7 @@
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\bin\Debug\AppMajeur.exe.config
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\bin\Debug\AppMajeur.exe
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\bin\Debug\AppMajeur.pdb
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\obj\Debug\AppMajeur.csproj.AssemblyReference.cache
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\obj\Debug\AppMajeur.csproj.CoreCompileInputs.cache
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\obj\Debug\AppMajeur.exe
+E:\Bloc 1 Programmation\AppMajeur\AppMajeur\obj\Debug\AppMajeur.pdb

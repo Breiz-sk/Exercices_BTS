@@ -1,0 +1,7 @@
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\bin\Debug\AppNegatifsPositifs.exe.config
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\bin\Debug\AppNegatifsPositifs.exe
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\bin\Debug\AppNegatifsPositifs.pdb
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\obj\Debug\AppNegatifsPositifs.csproj.AssemblyReference.cache
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\obj\Debug\AppNegatifsPositifs.csproj.CoreCompileInputs.cache
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\obj\Debug\AppNegatifsPositifs.exe
+E:\Bloc 1 Programmation\AppNegatifsPositifs\AppNegatifsPositifs\obj\Debug\AppNegatifsPositifs.pdb
