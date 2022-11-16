@@ -5,3 +5,10 @@ E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.csproj.AssemblyReferen
 E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.csproj.CoreCompileInputs.cache
 E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.exe
 E:\Bloc 1 Programmation\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.pdb
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\bin\Debug\ShiFuMi.exe.config
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\bin\Debug\ShiFuMi.exe
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\bin\Debug\ShiFuMi.pdb
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.exe
+C:\Users\Administrateur\Downloads\Exercices_BTS-main\Exercices_BTS-main\ShiFuMi\ShiFuMi\obj\Debug\ShiFuMi.pdb
