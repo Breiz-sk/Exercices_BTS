@@ -1,0 +1,15 @@
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\bin\Debug\net7.0\AppLocation.exe
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\bin\Debug\net7.0\AppLocation.deps.json
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\bin\Debug\net7.0\AppLocation.runtimeconfig.json
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\bin\Debug\net7.0\AppLocation.dll
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\bin\Debug\net7.0\AppLocation.pdb
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.csproj.AssemblyReference.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.AssemblyInfoInputs.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.AssemblyInfo.cs
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.csproj.CoreCompileInputs.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.dll
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\refint\AppLocation.dll
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.pdb
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\AppLocation.genruntimeconfig.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\AppLocation\obj\Debug\net7.0\ref\AppLocation.dll
