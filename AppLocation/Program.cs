@@ -10,32 +10,35 @@ namespace AppSaisieNombreEntier
     {
         static void Main(string[] args)
         {
-            int 
+            //int 
+            //    locationDiesel  = 70,
+            //    locationEssence = 60,
+            //    km = 0,
+            //    duree = 0;
+            
+            double 
+                //Const
+                prixDiesel      = 0.20,
+                prixEssence     = 0.25,
                 locationDiesel  = 70,
                 locationEssence = 60,
-                prixDiesel  = 0.20,
-                prixEssence = 0.25, 
+                
+                //Variable
+                calculDuree1    = 0,
+                calculDuree2    = 0,
+                CalculKm1       = 0,
+                CalculKm2       = 0,
                 km = 0,
-                duree = 0,
-                calculDuree1 = 0,
-                calculDuree2 = 0,
-                CalculKm1 = 0,
-                CalculKm2 = 0;
+                duree = 0;
 
             string 
                 choix="";
             
             Console.Write("Durée de la location : ");
-            //duree = int.Parse(Console.ReadLine());
-            choix = Console.ReadLine();
-            duree = int.Parse(choix);
+            duree = int.Parse(Console.ReadLine());
             
             Console.Write("Kilométrage : ");
-            //km = int.Parse(Console.ReadLine());
-            choix = Console.ReadLine();
-            km = int.Parse(choix);
-
-            Console.WriteLine("Km : "+km+" | Duree : "+duree);
+            km = int.Parse(Console.ReadLine());
             
             calculDuree1 = duree * locationDiesel ;
             calculDuree2 = duree * locationEssence ;
@@ -46,7 +49,20 @@ namespace AppSaisieNombreEntier
             calculDuree1 += CalculKm1;
             calculDuree2 += CalculKm2;
 
-            Console.WriteLine("Diesel : "+calculDuree1+" | Essence"+calculDuree2);
+            if (calculDuree1 > calculDuree2)
+            {
+                Console.Write("Le prix d'une voiture Essence est plus interessant");
+            }
+            
+            else if (calculDuree1 < calculDuree2) 
+            {
+                Console.Write("Le prix d'une voiture Diesel est plus interessant");
+            }
+            else 
+            {
+                Console.Write("Le prix d'une voiture Essence ou Diesel est le même");
+            }
+            
         }
     }
 }
