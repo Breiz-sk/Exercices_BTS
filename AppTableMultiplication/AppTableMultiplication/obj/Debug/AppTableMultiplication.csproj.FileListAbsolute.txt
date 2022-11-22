@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\bin\Debug\AppTableMultiplication.exe.config
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\bin\Debug\AppTableMultiplication.exe
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\bin\Debug\AppTableMultiplication.pdb
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\obj\Debug\AppTableMultiplication.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\obj\Debug\AppTableMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\obj\Debug\AppTableMultiplication.exe
+C:\Users\Administrateur\Desktop\AppTableMultiplication\AppTableMultiplication\obj\Debug\AppTableMultiplication.pdb
