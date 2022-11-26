@@ -1,0 +1,15 @@
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.csproj.AssemblyReference.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.AssemblyInfoInputs.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.AssemblyInfo.cs
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.csproj.CoreCompileInputs.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\bin\Debug\net7.0\AppTicket.exe
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\bin\Debug\net7.0\AppTicket.deps.json
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\bin\Debug\net7.0\AppTicket.runtimeconfig.json
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\bin\Debug\net7.0\AppTicket.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\bin\Debug\net7.0\AppTicket.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\refint\AppTicket.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\AppTicket.genruntimeconfig.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTicket\obj\Debug\net7.0\ref\AppTicket.dll
