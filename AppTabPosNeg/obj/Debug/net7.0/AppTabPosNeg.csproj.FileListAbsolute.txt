@@ -1,0 +1,15 @@
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.csproj.AssemblyReference.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.AssemblyInfoInputs.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.AssemblyInfo.cs
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.csproj.CoreCompileInputs.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\bin\Debug\net7.0\AppTabPosNeg.exe
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\bin\Debug\net7.0\AppTabPosNeg.deps.json
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\bin\Debug\net7.0\AppTabPosNeg.runtimeconfig.json
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\bin\Debug\net7.0\AppTabPosNeg.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\bin\Debug\net7.0\AppTabPosNeg.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\refint\AppTabPosNeg.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\AppTabPosNeg.genruntimeconfig.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabPosNeg\obj\Debug\net7.0\ref\AppTabPosNeg.dll
