@@ -5,3 +5,5 @@ C:\Users\Administrateur\Desktop\AppTabVilles\AppTabVilles\bin\Debug\AppTabVilles
 C:\Users\Administrateur\Desktop\AppTabVilles\AppTabVilles\bin\Debug\AppTabVilles.pdb
 C:\Users\Administrateur\Desktop\AppTabVilles\AppTabVilles\obj\Debug\AppTabVilles.exe
 C:\Users\Administrateur\Desktop\AppTabVilles\AppTabVilles\obj\Debug\AppTabVilles.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabVilles\AppTabVilles\obj\Debug\AppTabVilles.exe
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabVilles\AppTabVilles\obj\Debug\AppTabVilles.pdb

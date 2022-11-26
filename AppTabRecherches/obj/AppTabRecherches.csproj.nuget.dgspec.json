@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppCalculAge\\AppCalculAge.csproj": {}
+    "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppTabRecherches\\AppTabRecherches.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppCalculAge\\AppCalculAge.csproj": {
+    "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppTabRecherches\\AppTabRecherches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppCalculAge\\AppCalculAge.csproj",
-        "projectName": "AppCalculAge",
-        "projectPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppCalculAge\\AppCalculAge.csproj",
+        "projectUniqueName": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppTabRecherches\\AppTabRecherches.csproj",
+        "projectName": "AppTabRecherches",
+        "projectPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppTabRecherches\\AppTabRecherches.csproj",
         "packagesPath": "C:\\Users\\darkw\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppCalculAge\\obj\\",
+        "outputPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppTabRecherches\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darkw\\AppData\\Roaming\\NuGet\\NuGet.Config"
