@@ -1,0 +1,2 @@
+Nouveau répertoire 
+dotnet new console dans le répertoire

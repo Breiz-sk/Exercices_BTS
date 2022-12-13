@@ -1,0 +1,15 @@
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.csproj.AssemblyReference.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.AssemblyInfoInputs.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.AssemblyInfo.cs
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.csproj.CoreCompileInputs.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\bin\Debug\net7.0\SlnAsterix.exe
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\bin\Debug\net7.0\SlnAsterix.deps.json
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\bin\Debug\net7.0\SlnAsterix.runtimeconfig.json
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\bin\Debug\net7.0\SlnAsterix.dll
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\bin\Debug\net7.0\SlnAsterix.pdb
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.dll
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\refint\SlnAsterix.dll
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.pdb
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\SlnAsterix.genruntimeconfig.cache
+D:\Pause_2022\GitHubDepo\Exercices_BTS\SlnAsterix\obj\Debug\net7.0\ref\SlnAsterix.dll
