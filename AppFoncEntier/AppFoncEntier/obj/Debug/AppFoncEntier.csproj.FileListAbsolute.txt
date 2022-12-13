@@ -1,0 +1,7 @@
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\obj\Debug\AppFoncEntier.csproj.AssemblyReference.cache
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\obj\Debug\AppFoncEntier.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\bin\Debug\AppFoncEntier.exe.config
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\bin\Debug\AppFoncEntier.exe
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\bin\Debug\AppFoncEntier.pdb
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\obj\Debug\AppFoncEntier.exe
+C:\Users\Administrateur\source\repos\AppFoncEntier\AppFoncEntier\obj\Debug\AppFoncEntier.pdb

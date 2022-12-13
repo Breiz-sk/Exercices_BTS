@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\obj\Debug\AppMoyenneMatiere.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\obj\Debug\AppMoyenneMatiere.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\bin\Debug\AppMoyenneMatiere.exe.config
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\bin\Debug\AppMoyenneMatiere.exe
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\bin\Debug\AppMoyenneMatiere.pdb
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\obj\Debug\AppMoyenneMatiere.exe
+C:\Users\Administrateur\Desktop\AppMoyenneMatiere\AppMoyenneMatiere\obj\Debug\AppMoyenneMatiere.pdb

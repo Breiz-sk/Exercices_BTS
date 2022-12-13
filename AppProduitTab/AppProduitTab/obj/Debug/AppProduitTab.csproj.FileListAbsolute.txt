@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\bin\Debug\AppProduitTab.exe.config
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\bin\Debug\AppProduitTab.exe
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\bin\Debug\AppProduitTab.pdb
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\obj\Debug\AppProduitTab.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\obj\Debug\AppProduitTab.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\obj\Debug\AppProduitTab.exe
+C:\Users\Administrateur\Desktop\AppProduitTab\AppProduitTab\obj\Debug\AppProduitTab.pdb

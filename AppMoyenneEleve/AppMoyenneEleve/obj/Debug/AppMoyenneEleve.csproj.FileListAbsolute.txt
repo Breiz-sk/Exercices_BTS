@@ -1,0 +1,7 @@
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\bin\Debug\AppMoyenneEleve.exe.config
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\bin\Debug\AppMoyenneEleve.exe
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\bin\Debug\AppMoyenneEleve.pdb
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\obj\Debug\AppMoyenneEleve.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\obj\Debug\AppMoyenneEleve.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\obj\Debug\AppMoyenneEleve.exe
+C:\Users\Administrateur\Desktop\AppMoyenneEleve\AppMoyenneEleve\obj\Debug\AppMoyenneEleve.pdb

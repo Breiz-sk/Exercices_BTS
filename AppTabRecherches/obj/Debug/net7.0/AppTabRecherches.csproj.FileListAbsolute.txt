@@ -1,0 +1,15 @@
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\bin\Debug\net7.0\AppTabRecherches.exe
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\bin\Debug\net7.0\AppTabRecherches.deps.json
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\bin\Debug\net7.0\AppTabRecherches.runtimeconfig.json
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\bin\Debug\net7.0\AppTabRecherches.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\bin\Debug\net7.0\AppTabRecherches.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.csproj.AssemblyReference.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.AssemblyInfoInputs.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.AssemblyInfo.cs
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.csproj.CoreCompileInputs.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\refint\AppTabRecherches.dll
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.pdb
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\AppTabRecherches.genruntimeconfig.cache
+D:\GitHub\GitHub_Internet\Exercices_BTS\AppTabRecherches\obj\Debug\net7.0\ref\AppTabRecherches.dll
