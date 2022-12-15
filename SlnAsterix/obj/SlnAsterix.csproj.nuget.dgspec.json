@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Pause_2022\\GitHubDepo\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj": {}
+    "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj": {}
   },
   "projects": {
-    "D:\\Pause_2022\\GitHubDepo\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj": {
+    "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Pause_2022\\GitHubDepo\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj",
+        "projectUniqueName": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj",
         "projectName": "SlnAsterix",
-        "projectPath": "D:\\Pause_2022\\GitHubDepo\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj",
+        "projectPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\SlnAsterix\\SlnAsterix.csproj",
         "packagesPath": "C:\\Users\\darkw\\.nuget\\packages\\",
-        "outputPath": "D:\\Pause_2022\\GitHubDepo\\Exercices_BTS\\SlnAsterix\\obj\\",
+        "outputPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\SlnAsterix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\darkw\\AppData\\Roaming\\NuGet\\NuGet.Config"

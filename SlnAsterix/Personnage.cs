@@ -52,6 +52,54 @@ namespace SlnAsterix
              
         }
 
+        public string Fonction 
+        {
+            get { return fonction; } 
+            
+            set { fonction = value ;}
+             
+        }
+
+        public int NbCombat 
+        {
+            get { return nbCombat; } 
+            
+            set { nbCombat = value ;}
+             
+        }
+
+        public string Arme 
+        {
+            get { return arme; } 
+            
+            set { arme = value ;}
+             
+        }
+
+        public bool Potion 
+        {
+            get { return potion; } 
+            
+            set { potion = value ;}
+             
+        }
+
+        public int Force 
+        {
+            get { return force; } 
+            
+            set { force = value ;}
+             
+        }
+
+        public int NbVictoire 
+        {
+            get { return nbVictoire; } 
+            
+            set { nbVictoire = value ;}
+             
+        }
+
         //Méthodes
         public void demenager( string nouvelleAdresse)
         {
@@ -60,12 +108,23 @@ namespace SlnAsterix
 
         public string seBattre()
         {
-            if (puissance1 > puissance2 )
+            nbCombat ++;
+            if (force > 150 )
             {
-
+                nbVictoire++;
+                return "Le gagant du combat est :  " +nom;
             }
-            nbCombat ++; 
-            return "Le gagant du combat est : ";
+
+            else if (force < 150) 
+            {
+                return "Le gagant du combat n'est pas " +nom;
+            }
+            else 
+            {
+                return "Egalité";
+            }
+            
+            
         }
 
         public string puissance ()
@@ -95,14 +154,14 @@ namespace SlnAsterix
             Personnage Romain = new Personnage("Antivirus","Rome","Soldat Romain",0,"Lance",false,9,0);
 
             
-            /*
-            Console.WriteLine(asterix.Addresse);
-            asterix.Addresse = "Monde" ; 
-            Console.WriteLine(asterix.Addresse);
-            */
             asterix.demenager("Monde"); 
-            Console.WriteLine(asterix.afficher()) ; 
+
+            Console.WriteLine(asterix.afficher()); 
             Console.WriteLine(asterix.puissance());
+
+            Console.WriteLine(asterix.seBattre()); 
+            Console.WriteLine(asterix.afficher()); 
+
             
         }
     }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\Exercices_BTS.csproj",
-      "projectName": "Exercices_BTS",
-      "projectPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\Exercices_BTS.csproj",
+      "projectUniqueName": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppPoint\\AppPoint.csproj",
+      "projectName": "AppPoint",
+      "projectPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppPoint\\AppPoint.csproj",
       "packagesPath": "C:\\Users\\darkw\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\obj\\",
+      "outputPath": "D:\\GitHub\\GitHub_Internet\\Exercices_BTS\\AppPoint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\darkw\\AppData\\Roaming\\NuGet\\NuGet.Config"
