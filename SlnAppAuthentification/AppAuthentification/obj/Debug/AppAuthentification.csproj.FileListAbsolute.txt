@@ -1,0 +1,12 @@
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.FormMotDePasse.resources
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\bin\Debug\AppAuthentification.exe.config
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\bin\Debug\AppAuthentification.exe
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\bin\Debug\AppAuthentification.pdb
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.exe
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.pdb
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.Form1.resources
+C:\Users\Administrateur\Desktop\SlnAppAuthentification\AppAuthentification\obj\Debug\AppAuthentification.FormBienvenue.resources
