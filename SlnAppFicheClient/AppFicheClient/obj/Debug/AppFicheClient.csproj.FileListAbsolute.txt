@@ -1,0 +1,10 @@
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.FormAffichage.resources
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.FormFiche.resources
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.csproj.GenerateResource.cache
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\bin\Debug\AppFicheClient.exe.config
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\bin\Debug\AppFicheClient.exe
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\bin\Debug\AppFicheClient.pdb
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.exe
+C:\Users\Administrateur\Desktop\SlnAppFicheClient\AppFicheClient\obj\Debug\AppFicheClient.pdb
