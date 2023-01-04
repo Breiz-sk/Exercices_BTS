@@ -29,11 +29,32 @@ namespace AppAuthentification
 
         private void validerBTn_Click(object sender, EventArgs e)
         {
-            if ( String.IsNullOrEmpty(nomTB.Text) && String.IsNullOrEmpty(mdpTB.Text) )
+            /*if ( String.IsNullOrEmpty(nomTB.Text) && String.IsNullOrEmpty(mdpTB.Text) )
             {
                 FormBienvenue uneFenetreDeBienvenue = new FormBienvenue(nomTB.Text);
                 uneFenetreDeBienvenue.Show();
             }
+            */
+            if (mdpTB.Text == "password")
+            {
+                FormBienvenue uneFenetreDeBienvenue = new FormBienvenue(nomTB.Text);
+                uneFenetreDeBienvenue.Show();
+            }
+            else if (String.IsNullOrEmpty(mdpTB.Text))
+            {
+                MessageBox.Show("Le mot de passe est vide","MDP VIDE",MessageBoxButtons.OK);
+
+            }
+
+            else
+            {
+                MessageBox.Show("Le mot de passe n'est pas valide", "Erreur", MessageBoxButtons.OK);
+            }
+        }
+
+        private void Popup_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }

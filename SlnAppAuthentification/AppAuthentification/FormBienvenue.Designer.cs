@@ -37,9 +37,9 @@ namespace AppAuthentification
             this.msgLb.AutoSize = true;
             this.msgLb.Location = new System.Drawing.Point(333, 124);
             this.msgLb.Name = "msgLb";
-            this.msgLb.Size = new System.Drawing.Size(35, 13);
+            this.msgLb.Size = new System.Drawing.Size(51, 13);
             this.msgLb.TabIndex = 0;
-            this.msgLb.Text = "label1";
+            this.msgLb.Text = "Template";
             // 
             // FormBienvenue
             // 

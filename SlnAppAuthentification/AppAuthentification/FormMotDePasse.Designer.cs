@@ -35,6 +35,7 @@ namespace AppAuthentification
             this.mdpTB = new System.Windows.Forms.TextBox();
             this.validerBTn = new System.Windows.Forms.Button();
             this.fermerBtn = new System.Windows.Forms.Button();
+            this.Popup = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -94,11 +95,22 @@ namespace AppAuthentification
             this.fermerBtn.UseVisualStyleBackColor = true;
             this.fermerBtn.Click += new System.EventHandler(this.button2_Click);
             // 
+            // Popup
+            // 
+            this.Popup.Location = new System.Drawing.Point(263, 63);
+            this.Popup.Name = "Popup";
+            this.Popup.Size = new System.Drawing.Size(75, 23);
+            this.Popup.TabIndex = 6;
+            this.Popup.Text = "button1";
+            this.Popup.UseVisualStyleBackColor = true;
+            this.Popup.Click += new System.EventHandler(this.Popup_Click);
+            // 
             // FormMotDePasse
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(587, 377);
+            this.Controls.Add(this.Popup);
             this.Controls.Add(this.fermerBtn);
             this.Controls.Add(this.validerBTn);
             this.Controls.Add(this.mdpTB);
@@ -120,6 +132,7 @@ namespace AppAuthentification
         private System.Windows.Forms.TextBox mdpTB;
         private System.Windows.Forms.Button validerBTn;
         private System.Windows.Forms.Button fermerBtn;
+        private System.Windows.Forms.Button Popup;
     }
 }
 
